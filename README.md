@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Syed! 😄</h1>
   <!-- Credits for the picture: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true -->
-  <p align="center"><img alt=" DFIR" height="100%" width="100%" src="https://github.com/syeedhasan/syeedhasan/blob/master/DFIR.gif?raw=true" /></p>
+  <p align="center"><img alt=" DFIR" src="https://github.com/syeedhasan/syeedhasan/blob/master/DFIR.gif?raw=true" /></p>
 </div>
 <p align="center"><i>Here's what I love</i></p>
 <p align="center"> 
