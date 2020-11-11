@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Memory-Volatility-06313f" />
   <img src="https://img.shields.io/badge/Host-Autopsy_and_FTK-06313f" />
-  <img src="https://img.shields.io/badge/Network-Wireshark_and_TCP_Flow-06313f" />
+  <img src="https://img.shields.io/badge/Network-Wireshark-06313f" />
 </p>
 
 <p align="center">
