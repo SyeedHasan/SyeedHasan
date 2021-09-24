@@ -7,7 +7,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=SyeedHasan&style=flat&color=06313f&label=Viewers" alt=syeedhasan/>
   <img src="https://img.shields.io/badge/Role-Security%20Engineer-06313f" />
-  <img src="https://img.shields.io/badge/CTFs-3-06313f" />
 </p>
 
 <p align="center">
